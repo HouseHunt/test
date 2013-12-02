@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap 101 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+   <div id="wrap">
+<nav class="navbar navbar-default navbar-fixed-top navbar-inverse" role="navigation">
+  <!-- Brand and toggle get grouped for better mobile display -->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="#">HouseHunt Network</a>
+  </div>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Leadership Bios</a></li>
+          <li><a href="#">Success Vieos</a></li>
+          <li><a href="#">Agents of Acheivement</a></li>
+          <!--  <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+          <li class="divider"></li>
+          <li><a href="#">One more separated link</a></li> -->
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">"System for Success"</a></li>
+          <li><a href="#">Buyers</a></li>
+          <li><a href="#">Sellers</a></li>
+          <li><a href="#">Total Internet Market</a></li>
+          <li><a href="#">Agent Training</a></li>
+          <li><a href="#">Exclusive Territories</a></li>
+          <!--  <li class="divider"></li>
+          <li><a href="#">Separated link</a></li>
+          <li class="divider"></li>
+          <li><a href="#">One more separated link</a></li> -->
+        </ul>
+      </li> 
+                     
+      <li><a href="#">FAQ</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div><!-- /.navbar-collapse -->
+</nav>
+<div class="container">
+    <div class="page-header">
+      <h1><img src="images/hh-logo.png" alt="HouseHunt, Inc" style="max-width: 100px;"> The HouseHunt Network <small>| Generating quality real estate leads for agents nationwide.</small></h1>
+    </div>
+    <div class="row">
+    <div class="col-md-12">
+        <p class="welcome">Welcome</p>
+
+        <p>Since 1995, HouseHunt.com has been a leading provider, for success-driven agents, of quality home buyers and sellers. The HouseHunt.com real estate success system offers nearly every tool an agent needs to build an extremely productive and profitable business. Our success system is designed to ease your workload, substantially increase your bottom line and make your career more enjoyable. HouseHunt.com makes real estate fun, and extremely lucrative!
+        </p> 
+    </div>
+    </div>
+    <div class="row">
+    </div>
+    <div class="row">
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="images/agentspic.jpg" alt="Agents">
+          <div class="caption">
+            <h3>Agents</h3>
+                <ul>
+                    <li>Reduce or eliminate the need to prospect.</li>
+                    <li>We bring customers to YOU!</li>
+                    <li>Guaranteed Leads</li>
+                    <li>Exclusive Territories</li>
+                </ul>
+            <p>Get your share of the 4,000+ customers delivered nationally each day. Join now!</p>
+            <p><a href="#" class="btn btn-info" role="button">More Info</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="images/teamspic.jpg" alt="Agent Teams">
+          <div class="caption">
+            <h3>Agent Teams</h3>
+            <ul>
+                <li>Create an expanding pipeline of residual income and quality customers.</li>
+                <li>Focus your energies on selling homes and building your business – not on hours of prospecting.</li>
+                <li>Benefit - HouseHunt generates a unique lead every 16 seconds, on average, nationally.</li>
+            </ul>
+            <p><a href="#" class="btn btn-info" role="button">More Info</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="images/brokerspic.jpg" alt="Brokers">
+          <div class="caption">
+            <h3>Brokers</h3>
+            <ul>
+                <li>Recruit the best agents in your community by delivering what they want - more business!</li>
+                <li>Exclusive territories offer you a share of the 4,000+ customers HouseHunt generates daily. We give you a competitive edge over other brokers in your community.</li>
+            </ul><br />
+            <p><a href="#" class="btn btn-info" role="button">More Info</a></p>
+          </div>
+        </div>
+      </div>            
+    </div>
+</div>
+</div>
+    
+
+
+
+    <div id="footer">
+      <div class="copyright">
+        <p>Copyright HouseHunt, Inc 2013</p>
+      </div>
+    </div>   
+    
+    
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
